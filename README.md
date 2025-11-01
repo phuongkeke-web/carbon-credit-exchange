@@ -286,7 +286,6 @@ MIT License
 
 ## 🌟 Why This DApp is Unique
 
-Unlike the Skill Marketplace, this DApp:
 1. Uses **ERC-1155** (multi-token) instead of ERC-721
 2. Focuses on **environmental impact** - carbon offsetting
 3. Has **built-in marketplace** with direct buy/sell orders
